@@ -29,9 +29,5 @@ For those aiming to expand their knowledge of Evilginx3 and delve into how to in
 
 ## Course Previews: 
 
-##
-
-![evilginx-fido-phish](https://github.com/Z4nzu/hackingtool/assets/141525149/a1538ddf-7441-4ec2-b764-f5444d43b247)
-
-![Phish example 2](https://github.com/Z4nzu/hackingtool/assets/141525149/8dbc464b-6016-477d-ac39-7050e9612ad9)
+![smaller.jpg](https://github.zendesk.com/attachments/token/pGL3webXEqv49PCBhaaBiUUyD/?name=smaller.jpg)
 
