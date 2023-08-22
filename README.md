@@ -4,11 +4,11 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 **Got any requests or questions?** Feel free to message me @ simplerhacking.com
 
 
-## Want to learn Evilginx3? - Enroll in our Evilginx Masterclass Course!
+## Need Help or Want to learn Evilginx3? - Enroll in our new Evilginx Masterclass Course!
 
 ### [Explore the Evilginx course here!](https://www.simplerhacking.com/evilginx-course)
 
-![course.png](https://github.zendesk.com/attachments/token/bRJ2OgtkmLjiwGD0C2I1d16b0/?name=course.png)
+![course](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/464ff7c5-f305-46ea-ace3-e6996b4ce483)
 
 ##
 
