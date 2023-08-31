@@ -3,8 +3,10 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 
 **Got any requests or questions?** Feel free to message me @ simplerhacking.com
 
+![evilginx.png](https://github.zendesk.com/attachments/token/QigpgiKqoF4UPGScIdp9sA7ba/?name=evilginx.png)
 
-## Need Help or Want to learn Evilginx3? - Enroll in our new Evilginx Masterclass Course!
+
+## Need to learn Evilginx3? - Enroll in our new Evilginx Pro Course!
 
 ### [Explore the Evilginx course here!](https://www.simplerhacking.com/evilginx-course)
 
@@ -21,7 +23,6 @@ For those aiming to expand their knowledge of Evilginx3 and delve into how to in
 - **Step-by-step guidance** ensures you grasp every aspect
 - **Real-World Application & Scenarios**: Explore real-world phishing engagements through authentic examples in this course. Gain hands-on experience with professional tools and techniques
 
-## 
 
 ## Disclaimer
 **The tools and phishlets here are intended solely for legal and ethical use** by cybersecurity professionals in controlled environments. Any illegal or malicious use is strictly prohibited. I disclaim all responsibility for any harm, loss, or damage that may arise from improper use. Your use signifies compliance with all relevant laws and ethical guidelines.
