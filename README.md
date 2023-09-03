@@ -3,7 +3,7 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 
 **Got any requests or questions?** Feel free to message me @ simplerhacking.com
 
-![evilginx.png](https://github.zendesk.com/attachments/token/QigpgiKqoF4UPGScIdp9sA7ba/?name=evilginx.png)
+![evilginx3 pro](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/0359d87d-796b-4aec-ab11-b8a9f6295937)
 
 
 ## Need to learn Evilginx3? - Enroll in our new Evilginx Pro Course!
