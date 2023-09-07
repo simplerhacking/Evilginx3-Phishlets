@@ -10,6 +10,9 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 
 ### [Explore the Evilginx course here!](https://www.simplerhacking.com/evilginx-course)
 
+https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/3e81396b-88ad-443b-a07d-f6d3365ac911
+
+
 ![course](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/464ff7c5-f305-46ea-ace3-e6996b4ce483)
 
 ##
