@@ -3,15 +3,18 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 
 **Got any requests or questions?** Feel free to message me @ simplerhacking.com
 
-# Our New Evilginx Course Has Been Released!
-## Download the  course today: www.simplerhacking.com/evilginx-course
-Learn to bypass 2FA with the latest version Evilginx, send verified campaigns, capture credentials, record & analyze campaign results.
+# Our New Evilginx Phishing Masterclass Has Been Released!
+## Download the course today: www.simplerhacking.com/courses/evilginx-course
+Learn to bypass 2FA with the latest version Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
 
 https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df-48fb-9820-00520185cfd7
 
 https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-13cb-4cfc-b7a8-f944d824b0c2
 
+![Course Agenda 10-8 Final](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/913e547e-150c-485f-a0ea-a458f56cf4fb)
+
 ![SMTP-or-API-Email-Sending Evilginx3 ad](https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/6b5e4061-978f-488a-aa0e-53cb505f1022)
+
 
 
 
