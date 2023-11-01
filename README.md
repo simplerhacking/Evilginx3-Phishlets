@@ -1,29 +1,32 @@
-## Updated Evilginx3 Phishlets
-I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications
+# Updated Evilginx3 Phishlets
+I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
 **Got any requests or questions?** Feel free to message me @ simplerhacking.com
 
-# Interested in Learning MITM Phishing Attacks with Evilginx?
-## Check out our Evilginx3 Pro Masterclass: www.simplerhacking.com/courses/evilginx-course
+# Education: Interested in Mastering Phishing Attacks with Evilginx3?
+## Check out our new Evilginx3 Pro Masterclass on: www.SimplerHacking.com
 ## Use Code: GITHUB20 for a 20% off of the course!
-### Become a pro & learn how to bypass modern MFA with the latest version Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
+### Become an Evilginx pro & learn how to bypass modern MFA with the latest version Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results. Get access to Phishlets not available on our public Github as well as tons of resources to aid your engagements.
+
+
+![Screenshot (1859)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/c1ca8c91-e98f-4a57-b979-3a71c45e4d6f)
 
 ### Course Previews:
+
 ![Evilginx Pro Course Preview](https://github.com/simplerhacking/Phishlet-Creator/assets/141525149/66bbf548-b340-4c91-8694-1f77209a5edb)
+
+![Screenshot (2279)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/7a817e44-ce59-49f5-8197-540cead76c93)
+
 
 https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-13cb-4cfc-b7a8-f944d824b0c2
 
-Email Spoofing for MITM Bonus Preview:
+### Email Spoofing for MITM Bonus Preview:
 ![evilginx3 new course 3](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/389cadcc-4fa3-4859-89e8-0ce95af23f65)
 
 
 ![Evilginx Course Preview K](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/8f01d447-91f2-40ad-81f6-ac05f7e7eb5e)
 
 ![Evilginx Pro Course Workflow](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/22130b95-84b2-4993-a334-245b3c7ffc78)
-
-
-
-
 
 
 
