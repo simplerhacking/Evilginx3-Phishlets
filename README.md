@@ -8,9 +8,6 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 ## Use Code: GITHUB20 for a 20% off of the course!
 ### Become an Evilginx pro & learn how to bypass modern MFA with the latest version Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results. Get access to Phishlets not available on our public Github as well as tons of resources to aid your engagements.
 
-
-![Screenshot (1859)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/c1ca8c91-e98f-4a57-b979-3a71c45e4d6f)
-
 ### Course Previews:
 
 ![Evilginx Pro Course Preview](https://github.com/simplerhacking/Phishlet-Creator/assets/141525149/66bbf548-b340-4c91-8694-1f77209a5edb)
