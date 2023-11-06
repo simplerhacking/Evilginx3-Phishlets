@@ -8,7 +8,7 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xr3Sp8YA)
 
 # Education: Interested in Mastering Phishing Attacks with Evilginx3?
-## Check out our new Evilginx3 Pro Masterclass on: www.SimplerHacking.com
+## Check out our Evilginx3 Pro Masterclass on: www.SimplerHacking.com
 
 [![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
 
