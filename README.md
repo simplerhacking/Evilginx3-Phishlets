@@ -1,10 +1,17 @@
 # Updated Evilginx3 Phishlets
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
-**Got any requests or questions?** Feel free to message me @ simplerhacking.com
+**Got any requests or questions?** 
+
+[![Visit my website](https://img.shields.io/badge/Email-SimplerHacking-blue?style=for-the-badge&logo=appveyor)](http://www.simplerhacking.com)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xr3Sp8YA)
 
 # Education: Interested in Mastering Phishing Attacks with Evilginx3?
 ## Check out our new Evilginx3 Pro Masterclass on: www.SimplerHacking.com
+
+[![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
+
 ## Use Code: GITHUB20 for a 20% off of the course!
 ### Become an Evilginx pro & learn how to bypass modern MFA with the latest version Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results. Get access to Phishlets not available on our public Github as well as tons of resources to aid your engagements.
 
@@ -100,6 +107,12 @@ login:
 - `is_landing:` If set to true, it means that the page is a landing page for the phishing attack.
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
+
+## Join the Discord Server
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xr3Sp8YA)
+
+[![](https://dcbadge.vercel.app/api/server/xr3Sp8YA?style=plastic&theme=blue)](https://discord.gg/xr3Sp8YA)
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
