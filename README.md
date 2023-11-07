@@ -5,7 +5,7 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 
 [![Visit my website](https://img.shields.io/badge/Email-SimplerHacking-blue?style=for-the-badge&logo=appveyor)](http://www.simplerhacking.com)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xr3Sp8YA)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kMkUzcbYRH)
 
 # Education: Interested in Mastering Phishing Attacks with Evilginx3?
 ## Check out our Evilginx3 Pro Masterclass on: www.SimplerHacking.com
@@ -110,9 +110,9 @@ login:
 
 ## Join the Discord Server
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xr3Sp8YA)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kMkUzcbYRH)
 
-[![](https://dcbadge.vercel.app/api/server/xr3Sp8YA?style=plastic&theme=blue)](https://discord.gg/xr3Sp8YA)
+[![](https://dcbadge.vercel.app/api/server/xr3Sp8YA?style=plastic&theme=blue)](https://discord.gg/kMkUzcbYRH)
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
