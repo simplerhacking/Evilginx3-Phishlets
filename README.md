@@ -1,14 +1,13 @@
 # Updated Evilginx3 Phishlets
-I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
+I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
+In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
-**Got any requests or questions?** 
-
-[![Visit my website](https://img.shields.io/badge/Email-SimplerHacking-blue?style=for-the-badge&logo=appveyor)](http://www.simplerhacking.com)
-
+## Join the Evilginx Discord Server
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kMkUzcbYRH)
 
-# Education: Interested in Mastering Phishing Attacks with Evilginx3?
-## Check out our Evilginx3 Pro Masterclass on: www.SimplerHacking.com
+# Education: Interested in Learning Phishing Attacks with Evilginx3?
+## Download our Evilginx3 Pro Masterclass on: www.SimplerHacking.com
+![Course Headline](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/826d3946-4686-4e1b-88de-83ac3414e314)
 
 [![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
 
@@ -111,8 +110,6 @@ login:
 ## Join the Discord Server
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kMkUzcbYRH)
-
-[![](https://dcbadge.vercel.app/api/server/xr3Sp8YA?style=plastic&theme=blue)](https://discord.gg/kMkUzcbYRH)
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
