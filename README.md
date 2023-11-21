@@ -2,9 +2,6 @@
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
-## Join the Evilginx Discord Server
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kMkUzcbYRH)
-
 # Education: Interested in Learning Phishing Attacks with Evilginx3?
 ## Download our Evilginx3 Pro Masterclass on: www.SimplerHacking.com
 ![Course Headline](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/826d3946-4686-4e1b-88de-83ac3414e314)
@@ -106,10 +103,6 @@ login:
 - `is_landing:` If set to true, it means that the page is a landing page for the phishing attack.
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
-
-## Join the Discord Server
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kMkUzcbYRH)
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
