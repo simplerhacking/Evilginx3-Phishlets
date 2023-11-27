@@ -8,9 +8,11 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 
 # Education: Want to learn how to bypass MFA with Evilginx3?
 ## Download Evilginx Professional Masterclass on: www.SimplerHacking.com
-![Screenshot (2498)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/e4dc9609-2676-43f1-bb49-2b8239a1c538)
 
 [![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
+
+![Screenshot (2498)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/e4dc9609-2676-43f1-bb49-2b8239a1c538)
+
 
 ## Use Code: GITHUB20 for a 20% off of the course!
 ### Become an Evilginx professional & learn how to bypass modern MFA with the latest version Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results. Get access to Phishlets not available on our public Github as well as tons of resources, templates & generators to aid your engagements.
