@@ -3,7 +3,7 @@
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
-# Learn More: interested in mastering MITM Phishing with Evilginx?
+# Learn More: Interested in mastering Enterprise Phishing with Evilginx3?
 
 ## Enroll in our Evilginx 3.0 Professional Masterclass!
 
@@ -17,9 +17,11 @@ Our comprehensive course focuses on deploying Evilginx for dynamic phishing scen
 
 ![Evilginx Pro](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/e8845e9f-d993-4c05-adac-d213073aba4c)
 
+![evilginx pro course o365 demo gif](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/ac9f7cbd-39e7-4ecb-aff7-549c39f9e6db)
+
+
 ![preview](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/500f76e8-d1aa-4a79-9bbf-5fbec64003df)
 
-![evilginx course bonus collection](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/54e990c9-77d8-4ae1-922d-043bc10957f9)
 
 
 ## Use Code: GITHUB20 for a 20% off of the course!
@@ -38,9 +40,9 @@ https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-1
 
 ![GAP94xaWkAA_iTl](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/231ed9c9-6170-4c21-9d4c-fb58ffeda325)
 
+![evilginx course bonus collection](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/54e990c9-77d8-4ae1-922d-043bc10957f9)
 
 
-## Attend the Free Evilginx Modern Phishing Webinar: www.simplerhacking.com/courses/evilginx-webinar
 
 Learn how attackers use Evilginx & other tools to bypass MFA & gain access to information. Learn how Modern Business Email Compromise (BEC), and Evilginx Man-in-the-Middle (MITM) attacks are done from an attacker's perspective.
   
@@ -107,6 +109,11 @@ login:
 - `is_landing:` If set to true, it means that the page is a landing page for the phishing attack.
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
+
+## Enroll in our free Evilginx Training: www.simplerhacking.com/courses/evilginx-webinar
+
+
+
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
