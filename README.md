@@ -3,13 +3,23 @@
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
-# Education: Want to master Phishing Attacks with Evilginx3? 
+# Learn More: interested in mastering MITM Phishing with Evilginx?
 
-## Check out our new Evilginx Professional Masterclass! [![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
+## Enroll in our Evilginx 3.0 Professional Masterclass!
+
+Our comprehensive course focuses on deploying Evilginx for dynamic phishing scenarios, students will master the nuances reverse-proxy phishing, email protocols (SPF, DMARC, DKIM), content obfuscation, and executing attacks that effectively evade security measures, ensuring a comprehensive grasp of modern attacks along with a vast archive of custom tools & templates to aid your campaigns.
 
 ### Grab the course here: www.simplerhacking.com/courses/evilginx-course
 
+[![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
+
+
+
 ![Evilginx Pro](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/e8845e9f-d993-4c05-adac-d213073aba4c)
+
+![preview](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/500f76e8-d1aa-4a79-9bbf-5fbec64003df)
+
+![evilginx course bonus collection](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/54e990c9-77d8-4ae1-922d-043bc10957f9)
 
 
 ## Use Code: GITHUB20 for a 20% off of the course!
@@ -18,11 +28,17 @@ Become an Evilginx professional & learn how to bypass modern MFA with the latest
 
 ### Course Previews:
 
+
+
 ![Evilginx Pro Course Preview](https://github.com/simplerhacking/Phishlet-Creator/assets/141525149/66bbf548-b340-4c91-8694-1f77209a5edb)
 
 https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-13cb-4cfc-b7a8-f944d824b0c2
 
 ![evilginx3 new course 3](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/389cadcc-4fa3-4859-89e8-0ce95af23f65)
+
+![GAP94xaWkAA_iTl](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/231ed9c9-6170-4c21-9d4c-fb58ffeda325)
+
+
 
 ## Attend the Free Evilginx Modern Phishing Webinar: www.simplerhacking.com/courses/evilginx-webinar
 
