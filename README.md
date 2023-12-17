@@ -3,7 +3,7 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 
 **Got any requests or questions?** Feel free to message me @ Simplerhacking.com or message me on Discord
 
-## Join the Evilginx Community Discord
+## Join the private Evilginx Community Discord
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TYh7Df37)
 
@@ -12,6 +12,10 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 Learn to bypass 2FA with the latest version of Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
 
 https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df-48fb-9820-00520185cfd7
+
+![Screenshot (2501)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/1ae29b71-6d8b-4f28-9a12-edde24ba3060)
+
+![Screenshot (2500)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/93e2aa6f-4387-41b7-a612-0ac8d0152942)
 
 
 https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-13cb-4cfc-b7a8-f944d824b0c2
@@ -39,13 +43,8 @@ Send us an email to info@simplerhacking.com or message directly on our website w
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
 Any illegal or malicious use is strictly prohibited.
 I disclaim all responsibility for any harm, loss, or damage that may arise from improper use. 
-## Need Custom Phishlets? 
-Check our constantly updating our free Evilginx3 Phishlet Repository for Red Teams
 
-You can find it here: https://github.com/simplerhacking/Evilginx3-Phishlets
-
-## Questions?
-## Send us an email to: info@simplerhacking.com 
+##
 
 ## Simpler Hacking Evilginx Phishlet Template (Use this template to make your own!)
 
@@ -104,6 +103,10 @@ login:
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
 
 ## Enroll in our free BlackHat Training: www.simplerhacking.com/courses/evilginx-webinar
+
+## Subscribe to the Simpler Hacking cybersecurity blog for more insights: 
+![Screenshot (2506)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/e26fb295-f2a7-4325-ac1f-b6f66695dfa8)
+
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
