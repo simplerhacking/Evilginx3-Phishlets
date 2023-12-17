@@ -11,7 +11,9 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 ## Download the course: www.simplerhacking.com/courses/evilginx-course
 Learn to bypass 2FA with the latest version of Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
 
-https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df-48fb-9820-00520185cfd7
+### Course Content Preview:
+
+[![Evilcover2](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/d05fe6c1-9fdd-454c-8a96-689a880a8ddf)](https://www.simplerhacking.com/courses/evilginx-course)
 
 ![Screenshot (2501)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/1ae29b71-6d8b-4f28-9a12-edde24ba3060)
 
@@ -19,6 +21,9 @@ https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df
 
 
 https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-13cb-4cfc-b7a8-f944d824b0c2
+
+https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df-48fb-9820-00520185cfd7
+
 
 
 ![SMTP-or-API-Email-Sending Evilginx3 ad](https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/6b5e4061-978f-488a-aa0e-53cb505f1022)
@@ -102,10 +107,9 @@ login:
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
 
-## Enroll in our free BlackHat Training: www.simplerhacking.com/courses/evilginx-webinar
+## Enroll in our free training lessons & webinars: www.simplerhacking.com/courses/evilginx-webinar
 
-## Subscribe to the Simpler Hacking cybersecurity blog for more insights: 
-![Screenshot (2506)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/e26fb295-f2a7-4325-ac1f-b6f66695dfa8)
+
 
 
 ## Disclaimer
