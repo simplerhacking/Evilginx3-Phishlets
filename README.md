@@ -1,46 +1,44 @@
+  ## Updated Evilginx3 Phishlets
+I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications
 
-# Updated Evilginx3 Phishlets
-I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
-In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
+**Got any requests or questions?** Feel free to message me @ Simplerhacking.com or message me on Discord
 
-# Learn More: Interested in mastering Enterprise Phishing with Evilginx3?
+## Join the Evilginx Community Discord
 
-## Enroll in our Evilginx 3.0 Professional Masterclass!
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TYh7Df37)
 
-Our comprehensive course focuses on deploying Evilginx for dynamic phishing scenarios, students will master the nuances reverse-proxy phishing, email protocols (SPF, DMARC, DKIM), content obfuscation, and executing attacks that effectively evade security measures, ensuring a comprehensive grasp of modern attacks along with a vast archive of custom tools & templates to aid your campaigns.
+# Our New Evilginx Phishing Masterclass Has Been Released!
+## Download the course: www.simplerhacking.com/courses/evilginx-course
+Learn to bypass 2FA with the latest version of Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
 
-### Grab the course here: www.simplerhacking.com/courses/evilginx-course
+https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df-48fb-9820-00520185cfd7
 
-[![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
-
-![Evilginx Ad 4 Red cool one](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/9971cbf7-c076-4420-bf56-387f55b68e87)
-
-![Evilginx Pro Course Preview](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/2cd2edbe-83cc-4bf2-b0d4-83bda0ca5084)
-
-
-
-
-## Use Code: GITHUB20 for a 20% off of the course!
-### About the course: 
-Become an Evilginx professional & learn how to bypass modern MFA with the latest version Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results. Get access to Phishlets not available on our public Github as well as tons of resources, templates & generators to aid your engagements.
-
-### Course Previews:
-
-
-
-![Evilginx Pro Course Preview](https://github.com/simplerhacking/Phishlet-Creator/assets/141525149/66bbf548-b340-4c91-8694-1f77209a5edb)
 
 https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-13cb-4cfc-b7a8-f944d824b0c2
 
-![evilginx3 new course 3](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/389cadcc-4fa3-4859-89e8-0ce95af23f65)
 
-![GAP94xaWkAA_iTl](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/231ed9c9-6170-4c21-9d4c-fb58ffeda325)
-
+![SMTP-or-API-Email-Sending Evilginx3 ad](https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/6b5e4061-978f-488a-aa0e-53cb505f1022)
 
 
+- **Affordable Pricing:** I've made the price of the course afforable for anyone interesting in learning about Evilginx & MITM Attacks.
+- **Great for all skill levels:** The course is designed with clear explanations that make even complex topics easy to understand.
+- **Practical Application:** Through hands-on labs & real customizeable templates, We help you apply what you learn in real-world scenarios.
+- **From Basics to Advanced:** This course offers a smooth learning curve, foundation before diving into advanced features of Evilginx3.
+- **Custom Phishlets files & Resources:** Personalized phishlet files, Q&A support & resources bridge the gap between theory & practice
 
-Learn how attackers use Evilginx & other tools to bypass MFA & gain access to information. Learn how Modern Business Email Compromise (BEC), and Evilginx Man-in-the-Middle (MITM) attacks are done from an attacker's perspective.
-  
+
+## Need Custom Phishlets? 
+Check our constantly updating our free Evilginx3 Phishlet Repository for Red Teams
+
+You can find it here: https://github.com/simplerhacking/Evilginx3-Phishlets
+
+## Questions?
+Send us an email to info@simplerhacking.com or message directly on our website www.simplerhacking.com
+
+## Disclaimer
+The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
+Any illegal or malicious use is strictly prohibited.
+I disclaim all responsibility for any harm, loss, or damage that may arise from improper use. 
 ## Need Custom Phishlets? 
 Check our constantly updating our free Evilginx3 Phishlet Repository for Red Teams
 
@@ -105,14 +103,9 @@ login:
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
 
-## Enroll in our free Evilginx Training: www.simplerhacking.com/courses/evilginx-webinar
-
-
-
+## Enroll in our free BlackHat Training: www.simplerhacking.com/courses/evilginx-webinar
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
 Any illegal or malicious use is strictly prohibited.
 I disclaim all responsibility for any harm, loss, or damage that may arise from improper use.
-
-<img src="https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/bde083c3-551d-4c05-961d-8e493731a273" width="750" height="450">
