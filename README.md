@@ -13,14 +13,10 @@ Our comprehensive course focuses on deploying Evilginx for dynamic phishing scen
 
 [![Evilginx Pro Masterclass](https://img.shields.io/badge/Evilginx-Professional%20Masterclass-darkred?style=for-the-badge&logo=github)](https://www.simplerhacking.com/courses/evilginx-course)
 
+![Evilginx Ad 4 Red cool one](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/9971cbf7-c076-4420-bf56-387f55b68e87)
 
+![Evilginx Pro Course Preview](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/2cd2edbe-83cc-4bf2-b0d4-83bda0ca5084)
 
-![Evilginx Pro](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/e8845e9f-d993-4c05-adac-d213073aba4c)
-
-![evilginx pro course o365 demo gif](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/ac9f7cbd-39e7-4ecb-aff7-549c39f9e6db)
-
-
-![preview](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/500f76e8-d1aa-4a79-9bbf-5fbec64003df)
 
 
 
@@ -40,7 +36,6 @@ https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-1
 
 ![GAP94xaWkAA_iTl](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/231ed9c9-6170-4c21-9d4c-fb58ffeda325)
 
-![evilginx course bonus collection](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/54e990c9-77d8-4ae1-922d-043bc10957f9)
 
 
 
