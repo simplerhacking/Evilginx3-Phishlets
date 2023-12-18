@@ -3,7 +3,8 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 
 **Got any requests or questions?** Feel free to message me @ Simplerhacking.com or message me on Discord
 
-## Join the private Evilginx Community Discord
+## Join the private Evilginx Discord Server!
+![Discord Members](https://img.shields.io/badge/Discord%20Members-1304-blue)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TYh7Df37)
 
