@@ -109,13 +109,12 @@ login:
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
 
-## Enroll in our free training lessons & webinars: www.simplerhacking.com/courses/evilginx-webinar
-
 ## Follow our academic blog for more insights: https://medium.com/@simplerhacking
 
-[![Medium](https://github-readme-medium-recent-article.vercel.app/medium/@simplerhacking)](https://medium.com/@simplerhacking)
+![Subscribe](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/05768590-0ad4-47d8-bee0-5e940b71a00b)
 
 
+### Enroll in our free training lessons & webinars: www.simplerhacking.com/courses/evilginx-webinar
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
