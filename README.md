@@ -1,14 +1,15 @@
   ## Updated Evilginx3 Phishlets
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications
 
-**Got any requests or questions?** Feel free to message me @ Simplerhacking.com or message me on Discord
+**Got any requests or questions?** Feel free to message me @ www.SimplerHacking.com
+
 
 ## Join the private Evilginx Discord Server!
-![Discord Members](https://img.shields.io/badge/Discord%20Members-1304-blue)
+![Discord Members](https://img.shields.io/badge/Discord%20Members-1309-blue)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TYh7Df37)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3pdawMkP)
 
-# Our New Evilginx Phishing Masterclass Has Been Released!
+# Our New Evilginx3 Phishing Masterclass Has Been Released!
 ## Download the course: www.simplerhacking.com/courses/evilginx-course
 Learn to bypass 2FA with the latest version of Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
 
@@ -110,6 +111,9 @@ login:
 
 ## Enroll in our free training lessons & webinars: www.simplerhacking.com/courses/evilginx-webinar
 
+## Follow our academic blog for more insights: https://medium.com/@simplerhacking
+
+[![Medium](https://github-readme-medium-recent-article.vercel.app/medium/@simplerhacking)](https://medium.com/@simplerhacking)
 
 
 
