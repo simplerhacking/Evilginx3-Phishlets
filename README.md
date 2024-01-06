@@ -1,13 +1,23 @@
-  ## Updated Evilginx3 Phishlets
+  # Updated Evilginx3 Phishlets
+  
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications
+
+##
+
+## Want more Evilginx Phishlets not available on Github? 
+Gain access to more private Phishlets not available to the public on our Patreon. 
+[![Get Exclusive Access on Patreon](https://img.shields.io/badge/Exclusive_Access-Patreon-orange.svg)](https://www.patreon.com/SimplerHacking)
+
+## By keeping these Evilginx3 Phishlets & scripts private & closed-source, I've ensured effectiveness in perpetuity.
+
+## Patreon: www.patreon.com/SimplerHacking
 
 **Got any requests or questions?** Feel free to message me @ www.SimplerHacking.com
 
+## Community Discord Server
+![Discord Members](https://img.shields.io/badge/Discord%20Members-1314-lavender)
 
-## Join the private Evilginx Discord Server!
-![Discord Members](https://img.shields.io/badge/Discord%20Members-1309-blue)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3pdawMkP)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7BbVHhQE)
 
 # Our New Evilginx3 Phishing Masterclass Has Been Released!
 ## Download the course: www.simplerhacking.com/courses/evilginx-course
