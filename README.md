@@ -1,38 +1,26 @@
   # Updated Evilginx3 Phishlets
   
-I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications
-
-##
-
-## Want more Evilginx Phishlets not available on Github? 
-Gain access to more private Phishlets not available to the public on our Patreon. 
-[![Get Exclusive Access on Patreon](https://img.shields.io/badge/Exclusive_Access-Patreon-orange.svg)](https://www.patreon.com/SimplerHacking)
-
-## By keeping these Evilginx3 Phishlets & scripts private & closed-source, I've ensured effectiveness in perpetuity.
-
-## Patreon: www.patreon.com/SimplerHacking
-
-**Got any requests or questions?** Feel free to message me @ www.SimplerHacking.com
+I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
+In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
 ## Community Discord Server
-![Discord Members](https://img.shields.io/badge/Discord%20Members-1314-lavender)
+![Discord Members](https://img.shields.io/badge/Discord%20Members-1321-blue)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7BbVHhQE)
 
-# Our New Evilginx3 Phishing Masterclass Has Been Released!
-## Download the course: www.simplerhacking.com/courses/evilginx-course
+# Our New Evilginx3 Professional Masterclass Has Been Released!
+## Save 30% Off with Code: GITHUB30: www.simplerhacking.com/courses/evilginx-course
 Learn to bypass 2FA with the latest version of Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
 
 ### Course Content Preview:
 
-[![Evilcover2](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/d05fe6c1-9fdd-454c-8a96-689a880a8ddf)](https://www.simplerhacking.com/courses/evilginx-course)
+![AWS Partnership](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/4378fb65-f24d-4002-a2c8-cf55f96d353b)
+
 
 ![Screenshot (2501)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/1ae29b71-6d8b-4f28-9a12-edde24ba3060)
 
 ![Screenshot (2500)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/93e2aa6f-4387-41b7-a612-0ac8d0152942)
 
-
-https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/fa7dcbf0-13cb-4cfc-b7a8-f944d824b0c2
 
 https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df-48fb-9820-00520185cfd7
 
@@ -55,11 +43,6 @@ You can find it here: https://github.com/simplerhacking/Evilginx3-Phishlets
 
 ## Questions?
 Send us an email to info@simplerhacking.com or message directly on our website www.simplerhacking.com
-
-## Disclaimer
-The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
-Any illegal or malicious use is strictly prohibited.
-I disclaim all responsibility for any harm, loss, or damage that may arise from improper use. 
 
 ##
 
@@ -119,9 +102,17 @@ login:
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
 - `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
 
-## Follow our academic blog for more insights: https://medium.com/@simplerhacking
+## Follow our academic blog for more insights on security: https://medium.com/@simplerhacking
 
 ![Subscribe](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/05768590-0ad4-47d8-bee0-5e940b71a00b)
+
+## Want more Evilginx Phishlets not available on Github? 
+Gain access to more private Phishlets not available to the public on our Patreon. 
+[![Get Exclusive Access on Patreon](https://img.shields.io/badge/Exclusive_Access-Patreon-orange.svg)](https://www.patreon.com/SimplerHacking)
+
+## By keeping these Evilginx3 Phishlets & scripts private & closed-source, I've ensured effectiveness in perpetuity.
+
+## Patreon: www.patreon.com/SimplerHacking
 
 
 ### Enroll in our free training lessons & webinars: www.simplerhacking.com/courses/evilginx-webinar
