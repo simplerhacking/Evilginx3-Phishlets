@@ -5,9 +5,6 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 
 ## Community Discord Server
 
-![DiscordInvite](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/251ee1ce-4bfd-48ba-a8e2-63f5692f603a)
-
-
 ![Discord Members](https://img.shields.io/badge/Discord%20Members-1332-blue)
 
 
