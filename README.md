@@ -6,7 +6,7 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 ## Community Discord Server
 ![Discord Members](https://img.shields.io/badge/Discord%20Members-1321-blue)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7BbVHhQE)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ykty6pNn)
 
 # Our New Evilginx3 Professional Masterclass Has Been Released!
 ## Save 30% Off with Code: GITHUB30: www.simplerhacking.com/courses/evilginx-course
