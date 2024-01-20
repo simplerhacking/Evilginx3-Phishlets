@@ -4,9 +4,15 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
 ## Community Discord Server
-![Discord Members](https://img.shields.io/badge/Discord%20Members-1321-blue)
+
+![DiscordInvite](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/251ee1ce-4bfd-48ba-a8e2-63f5692f603a)
+
+
+![Discord Members](https://img.shields.io/badge/Discord%20Members-1332-blue)
+
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ykty6pNn)
+
 
 # Our New Evilginx3 Professional Masterclass Has Been Released!
 ## Save 30% Off with Code: GITHUB30: www.simplerhacking.com/courses/evilginx-course
@@ -107,15 +113,17 @@ login:
 ![Subscribe](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/05768590-0ad4-47d8-bee0-5e940b71a00b)
 
 ## Want more Evilginx Phishlets not available on Github? 
-Gain access to more private Phishlets not available to the public on our Patreon. 
+Gain access to more private Phishlets not available to the public on our Patreon.
+
+
 [![Get Exclusive Access on Patreon](https://img.shields.io/badge/Exclusive_Access-Patreon-orange.svg)](https://www.patreon.com/SimplerHacking)
 
-## By keeping these Evilginx3 Phishlets & scripts private & closed-source, I've ensured effectiveness in perpetuity.
+<img width="264" alt="Patreon" src="https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/3e9d587d-0792-4dad-a6d2-aaa004197508">
 
 ## Patreon: www.patreon.com/SimplerHacking
 
 
-### Enroll in our free training lessons & webinars: www.simplerhacking.com/courses/evilginx-webinar
+### Enroll in our free training lessons & webinars: www.simplerhacking.com/courses
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
