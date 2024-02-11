@@ -3,17 +3,12 @@
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
-## Community Discord Server
 
-![Discord Members](https://img.shields.io/badge/Discord%20Members-1332-blue)
-
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ykty6pNn)
-
-
-# Our New Evilginx3 Professional Masterclass Has Been Released!
+# Evilginx3 Professional Masterclass (2024) Has Been Released!
 ## Save 30% Off with Code: GITHUB30: www.simplerhacking.com/courses/evilginx-course
-Learn to bypass 2FA with the latest version of Evilginx3, send verified campaigns, capture credentials, record & analyze campaign results.
+
+Designed for both beginners & advanced users, our course will teach you everything you need to master Evilginx reverse-proxy phishing, bypassing MFA, setting up your server for engagements, sending emails for campaigns, delivering lures to priority inbox, as well as post-engagement best practices & bonus tools + resources.
+
 
 ### Course Content Preview:
 
@@ -121,6 +116,13 @@ Gain access to more private Phishlets not available to the public on our Patreon
 
 
 ### Enroll in our free training lessons & webinars: www.simplerhacking.com/courses
+
+## Community Discord Server
+
+![Discord Members](https://img.shields.io/badge/Discord%20Members-1036-blue)
+
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yqfVskRa)
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
