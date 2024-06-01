@@ -4,34 +4,38 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
 
-# Evilginx3 Professional Masterclass (2024) Has Been Released!
-## Save 30% Off with Code: GITHUB30: www.simplerhacking.com/courses/evilginx-course
-
-Designed for both beginners & advanced users, our course will teach you everything you need to master Evilginx reverse-proxy phishing, bypassing MFA, setting up your server for engagements, sending emails for campaigns, delivering lures to priority inbox, as well as post-engagement best practices & bonus tools + resources.
+# [Advanced EvilGoPhish Mastery Course](https://www.simplerhacking.com/courses/evilgophish-masterclass-course) is Out Now!
 
 
-### Course Content Preview:
+This is a course for the advanced hackers, red teams, and penetration testers looking to gain an edge in today's security environment. 
+Learn advanced phishing & smishing techniques with EvilGoPhish 3.0, one of the most powerful reverse-proxy phishing tools available.
 
-![AWS Partnership](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/4378fb65-f24d-4002-a2c8-cf55f96d353b)
+EvilGoPhish Mastery is *bar none* the most dynamic and nuanced reverse-proxy phishing course on the market.
+
+The course works in tandem with this repo by diving deep into the entire process of deploying these scripts for red team phishing & smishing campaigns.
+
+![EVILGOPHISH MASTERY OUT NOW!](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/ad77289d-91fb-46ee-8fbe-64255be8ff08)
+
+## Save 25% Off with Code: LAUNCH25
+
+# Curriculum Previews:
+
+![Screenshot 2024-06-01 064917](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/f506630f-06ff-4285-9c09-26fbcf57a588)
+![evilgophish 3 0 course preview release setup section trailer](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/9be0b731-6934-4d52-ba7c-becb43141a96)
+![Evilgophish mastery course cloudflare turnstile lesson preview www simplerhacking](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/0c22ecc6-9b6d-44c0-bf3f-e8624ecbd917)
+
+![Screenshot 2024-06-01 044437](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/6a295035-e41a-4c9a-956a-c0366129088c)
 
 
-![Screenshot (2501)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/1ae29b71-6d8b-4f28-9a12-edde24ba3060)
+### Click [HERE](https://www.simplerhacking.com/courses/evilgophish-masterclass-course) to view all sections & lessons! (click 'show more' for all lessons)
 
-![Screenshot (2500)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/93e2aa6f-4387-41b7-a612-0ac8d0152942)
+![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (1)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/cb043987-2315-47dc-abf6-9e508d7c1128)
 
+![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (2)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/6a3dd41e-72b4-4701-9675-53f8c765a246)
 
-https://github.com/simplerhacking/Evilginx-Course/assets/141525149/3bf788e5-d7df-48fb-9820-00520185cfd7
+![(Smaller 8 MB for Github) evilgophish kuba graphic in moving format and gif short 8 second loop](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/cba899aa-e100-4af9-b621-f5dce14b2786)
 
-
-
-![SMTP-or-API-Email-Sending Evilginx3 ad](https://github.com/simplerhacking/Evilginx3-Tutorial/assets/141525149/6b5e4061-978f-488a-aa0e-53cb505f1022)
-
-
-- **Affordable Pricing:** I've made the price of the course afforable for anyone interesting in learning about Evilginx & MITM Attacks.
-- **Great for all skill levels:** The course is designed with clear explanations that make even complex topics easy to understand.
-- **Practical Application:** Through hands-on labs & real customizeable templates, We help you apply what you learn in real-world scenarios.
-- **From Basics to Advanced:** This course offers a smooth learning curve, foundation before diving into advanced features of Evilginx3.
-- **Custom Phishlets files & Resources:** Personalized phishlet files, Q&A support & resources bridge the gap between theory & practice
+# Click [HERE](https://www.simplerhacking.com/courses/evilgophish-masterclass-course) to enroll in [**Simpler Hacking's**](https://simplerhacking.medium.com/) EvilGoPhish Mastery Course 
 
 
 ## Need Custom Phishlets? 
