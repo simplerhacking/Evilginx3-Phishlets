@@ -3,40 +3,59 @@
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
+## Want to Learn More About Creating Advanced Phishlets from Scratch in 2025?
 
-# [Advanced EvilGoPhish Mastery Course](https://www.simplerhacking.com/courses/evilgophish-masterclass-course) is Out Now!
+# [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
+
+After months of dedicated work and relentless refinement, we're proud to announce that our **Evilginx Phishlet Developer Masterclass (2025)** has finally been completed. This course is the culmination of years of advanced research and practical red team experience—designed for developers, security professionals, red teamers and anyone who wants to learn how to build custom phishlets from scratch.
+
+Join us now and unlock the most complete, up-to-date resource for mastering phishlet creation in 2025. Elevate your offensive security skills with hands-on labs, expert insights, and innovative techniques that will redefine your approach to reverse-proxy phishing.
+
+[View the Course](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass)
+
+![Simpler Hacking Phishlet Developer Masterclass (2025) Cover A](https://github.com/user-attachments/assets/f3d92a5a-0a84-4b5b-8a99-6f220100eb9a)
 
 
-This is a course for the advanced hackers, red teams, and penetration testers looking to gain an edge in today's security environment. 
-Learn advanced phishing & smishing techniques with EvilGoPhish 3.0, one of the most powerful reverse-proxy phishing tools available.
+Are you a programmer, cybersecurity enthusiast, or a red/blue team member ready to move beyond basic Evilginx setup? This course is built for those who want to get hands-on with advanced phishlet development—from the ground up. Whether you're an entry-level developer eager to learn the ins and outs of reverse-proxy phishing or an experienced security professional looking to refine your skills, this masterclass will take you step-by-step through building and customizing phishlets that work in real-world engagements.
 
-EvilGoPhish Mastery is *bar none* the most dynamic and nuanced reverse-proxy phishing course on the market.
+**What You’ll Master in Evilginx Phishlet Developer Masterclass (2025):**
 
-The course works in tandem with this repo by diving deep into the entire process of deploying these scripts for red team phishing & smishing campaigns.
+- **Phishlet Architecture Fundamentals:**  
+  Learn how Evilginx phishlets are structured, and understand how each section—from proxy_hosts and sub_filters to auth_tokens and credentials—works together to capture session data and user credentials.
 
-![EVILGOPHISH MASTERY OUT NOW!](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/ad77289d-91fb-46ee-8fbe-64255be8ff08)
+- **Over 10 Hours of In-Depth Content:**  
+  This masterclass features more than 10 hours of content that covers every facet of phishlet development—from foundational principles to advanced customization techniques—ensuring you have all the knowledge and tools you need to create, deploy, and manage custom phishlets from scratch.
 
-## Save 25% Off with Code: LAUNCH25
+- **Token and Cookie Capture Techniques:**  
+  Discover the methods used to intercept session cookies and authentication tokens. You’ll learn how to extract critical data using regular expressions and how to set up auth_urls to trigger successful session capture.
+
+- **Real-World Challenges & Phishing Popular Websites:**  
+  Work through practical exercises that address modern challenges, including handling multi-factor authentication and CAPTCHA flows. Learn to integrate and manage these hurdles without compromising data capture.
+
+- **Step-by-Step Labs & Interactive Exercises:**  
+  Follow detailed, hands-on labs that cover every aspect of phishlet development. By the end of the course, you’ll have built your own advanced phishlets, ready for use in simulated red team engagements.
+
+- **Tailored for Aspiring Phishlet Developers of All Skill Levels:**  
+  This course speaks directly to programmers who are ready to master Evilginx phishlet creation—from understanding basic concepts to implementing sophisticated customizations. You'll get clear, code-driven examples and practical insights that you can apply immediately.
+
+Evilginx Phishlet Developer Masterclass (2025) isn’t just another security course—it’s the ultimate resource for anyone serious about advanced phishlet development. Elevate your skills, learn to build custom, resilient phishlets from scratch.
 
 # Curriculum Previews:
 
-![Screenshot 2024-06-01 064917](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/f506630f-06ff-4285-9c09-26fbcf57a588)
-![evilgophish 3 0 course preview release setup section trailer](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/9be0b731-6934-4d52-ba7c-becb43141a96)
-![Evilgophish mastery course cloudflare turnstile lesson preview www simplerhacking](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/0c22ecc6-9b6d-44c0-bf3f-e8624ecbd917)
+## Click [HERE](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) to enroll in Evilginx Phishlet Developer Masterclass (2025)
 
-![Screenshot 2024-06-01 044437](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/6a295035-e41a-4c9a-956a-c0366129088c)
+## Elevate Your Offensive Security Skillset with Our Latest Advanced Phishing Course!
 
+Are you ready to push your Evilginx expertise to new heights? If you’re already comfortable with deploying basic phishlets, it’s time to master the craft of building them from scratch. Our **Evilginx Phishlet Developer Masterclass (2025)** is engineered for advanced practitioners—penetration testers, red teamers, and cybersecurity professionals—who demand a deeper, more technical understanding of phishlet creation.
 
-### Click [HERE](https://www.simplerhacking.com/courses/evilgophish-masterclass-course) to view all sections & lessons! (click 'show more' for all lessons)
+In this masterclass, you will:
+- **Dissect Phishlet Architecture:** Gain an intimate understanding of Evilginx phishlets—from proxy host configuration and dynamic sub-filters to capturing critical session cookies and authentication tokens.
+- **Tackle Real-World Challenges:** Learn to overcome, diagnose, and troubleshoot complex authentication flows and hurdles with cutting-edge techniques, ensuring your phishlets work seamlessly in real environments and applications.
+- **Build Custom Solutions:** Transition from using off-the-shelf phishlets to engineering bespoke tools that are robust, adaptable, and tailored for your red team engagements.
+- **Engage with Practical Labs:** Work through hands-on exercises and interactive labs that mirror actual offensive operations, equipping you with skills you can deploy immediately.
 
-![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (1)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/cb043987-2315-47dc-abf6-9e508d7c1128)
-
-![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (2)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/6a3dd41e-72b4-4701-9675-53f8c765a246)
-
-![(Smaller 8 MB for Github) evilgophish kuba graphic in moving format and gif short 8 second loop](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/cba899aa-e100-4af9-b621-f5dce14b2786)
-
-# Click [HERE](https://www.simplerhacking.com/courses/evilgophish-masterclass-course) to enroll in [**Simpler Hacking's**](https://simplerhacking.medium.com/) EvilGoPhish Mastery Course 
-
+Join the ranks of industry professionals who have already transformed their approach to reverse-proxy phishing.  
+Click [HERE](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) to explore the full curriculum and enroll in the **Evilginx Phishlet Developer Masterclass 2025** today—and redefine what’s possible in offensive security.
 
 ## Need Custom Phishlets? 
 Check our constantly updating our free Evilginx3 Phishlet Repository for Red Teams
