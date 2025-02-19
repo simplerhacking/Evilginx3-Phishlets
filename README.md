@@ -5,23 +5,27 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 
 ## Want to Learn More About Creating Advanced Phishlets from Scratch in 2025?
 
-# [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
+## [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
 
 After months of dedicated work and relentless refinement, we're proud to announce that our **Evilginx Phishlet Developer Masterclass (2025)** has finally been completed. This course is the culmination of years of advanced research and practical red team experience—designed for developers, security professionals, red teamers and anyone who wants to learn how to build custom phishlets from scratch.
 
 Join us now and unlock the most complete, up-to-date resource for mastering phishlet creation in 2025. Elevate your offensive security skills with hands-on labs, expert insights, and innovative techniques that will redefine your approach to reverse-proxy phishing.
 
-[View the Course](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass)
+[Click Herer to View the Course](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass)
 
-![Simpler Hacking Phishlet Developer Masterclass (2025) Cover A](https://github.com/user-attachments/assets/f3d92a5a-0a84-4b5b-8a99-6f220100eb9a)
+![evilginx phishlet developer mastery class by simpler hacking (2025)](https://github.com/user-attachments/assets/aaa0823d-4ebe-4f3c-b78d-974380d373fb)
 
+![SimplerHacking Student Poll Updated - Phishlet Mastery](https://github.com/user-attachments/assets/10c14fc5-5fbf-4543-9451-5210556b004f)
 
 Are you a programmer, cybersecurity enthusiast, or a red/blue team member ready to move beyond basic Evilginx setup? This course is built for those who want to get hands-on with advanced phishlet development—from the ground up. Whether you're an entry-level developer eager to learn the ins and outs of reverse-proxy phishing or an experienced security professional looking to refine your skills, this masterclass will take you step-by-step through building and customizing phishlets that work in real-world engagements.
+
+![Evilginx Mention Landing Page Fade in Out + Logo Github](https://github.com/user-attachments/assets/32ac299b-c2d4-4499-8623-e51bff39744c)
+
 
 **What You’ll Master in Evilginx Phishlet Developer Masterclass (2025):**
 
 - **Phishlet Architecture Fundamentals:**  
-  Learn how Evilginx phishlets are structured, and understand how each section—from proxy_hosts and sub_filters to auth_tokens and credentials—works together to capture session data and user credentials.
+  Learn how Evilginx phishlets are structured, and understand how each section—from proxy_hosts and sub_filters to javascript injection and force_post—works together to capture session data and user credentials.
 
 - **Over 10 Hours of In-Depth Content:**  
   This masterclass features more than 10 hours of content that covers every facet of phishlet development—from foundational principles to advanced customization techniques—ensuring you have all the knowledge and tools you need to create, deploy, and manage custom phishlets from scratch.
@@ -36,7 +40,7 @@ Are you a programmer, cybersecurity enthusiast, or a red/blue team member ready 
   Follow detailed, hands-on labs that cover every aspect of phishlet development. By the end of the course, you’ll have built your own advanced phishlets, ready for use in simulated red team engagements.
 
 - **Tailored for Aspiring Phishlet Developers of All Skill Levels:**  
-  This course speaks directly to programmers who are ready to master Evilginx phishlet creation—from understanding basic concepts to implementing sophisticated customizations. You'll get clear, code-driven examples and practical insights that you can apply immediately.
+  This course speaks directly to programmers who are ready to master Evilginx phishlet creation—from understanding basic concepts to implementing sophisticated customizations. You'll get clear, code-driven examples and nuanced insights.
 
 Evilginx Phishlet Developer Masterclass (2025) isn’t just another security course—it’s the ultimate resource for anyone serious about advanced phishlet development. Elevate your skills, learn to build custom, resilient phishlets from scratch.
 
