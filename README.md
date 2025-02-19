@@ -5,22 +5,23 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 
 ## Want to Learn More About Creating Advanced Phishlets from Scratch in 2025?
 
-## [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
+## Our New Training Course [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
 
-After months of dedicated work and relentless refinement, we're proud to announce that our **Evilginx Phishlet Developer Masterclass (2025)** has finally been completed. This course is the culmination of years of advanced research and practical red team experience—designed for developers, security professionals, red teamers and anyone who wants to learn how to build custom phishlets from scratch.
+![evilginx phishlet developer mastery class by simpler hacking (2025)](https://github.com/user-attachments/assets/aaa0823d-4ebe-4f3c-b78d-974380d373fb)
+
+After months of dedicated work and relentless refinement, our team proud to announce that our **Evilginx Phishlet Developer Masterclass (2025)** has finally been completed. This course is the culmination of years of advanced research and practical red team experience—designed for developers, security professionals, red teamers and anyone who wants to learn how to build custom phishlets from scratch.
 
 Join us now and unlock the most complete, up-to-date resource for mastering phishlet creation in 2025. Elevate your offensive security skills with hands-on labs, expert insights, and innovative techniques that will redefine your approach to reverse-proxy phishing.
 
 [Click Herer to View the Course](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass)
 
-![evilginx phishlet developer mastery class by simpler hacking (2025)](https://github.com/user-attachments/assets/aaa0823d-4ebe-4f3c-b78d-974380d373fb)
-
 ![SimplerHacking Student Poll Updated - Phishlet Mastery](https://github.com/user-attachments/assets/10c14fc5-5fbf-4543-9451-5210556b004f)
+
+![Github - Evilginx Workflow Test](https://github.com/user-attachments/assets/7b7e467d-9d48-4ead-9319-13fa2d05c26f)
 
 Are you a programmer, cybersecurity enthusiast, or a red/blue team member ready to move beyond basic Evilginx setup? This course is built for those who want to get hands-on with advanced phishlet development—from the ground up. Whether you're an entry-level developer eager to learn the ins and outs of reverse-proxy phishing or an experienced security professional looking to refine your skills, this masterclass will take you step-by-step through building and customizing phishlets that work in real-world engagements.
 
-![Evilginx Mention Landing Page Fade in Out + Logo Github](https://github.com/user-attachments/assets/32ac299b-c2d4-4499-8623-e51bff39744c)
-
+![Simpler Hacking Phishlet Mastery (2025)-min](https://github.com/user-attachments/assets/191866aa-d15b-48f1-b18e-f374f99cf625)
 
 **What You’ll Master in Evilginx Phishlet Developer Masterclass (2025):**
 
@@ -42,15 +43,23 @@ Are you a programmer, cybersecurity enthusiast, or a red/blue team member ready 
 - **Tailored for Aspiring Phishlet Developers of All Skill Levels:**  
   This course speaks directly to programmers who are ready to master Evilginx phishlet creation—from understanding basic concepts to implementing sophisticated customizations. You'll get clear, code-driven examples and nuanced insights.
 
-Evilginx Phishlet Developer Masterclass (2025) isn’t just another security course—it’s the ultimate resource for anyone serious about advanced phishlet development. Elevate your skills, learn to build custom, resilient phishlets from scratch.
+Evilginx Phishlet Developer Masterclass (2025) isn’t just another security course—it’s the ultimate resource for anyone serious about advanced phishlet development. Elevate your skills, learn to build custom, resilient phishlets.
 
 # Curriculum Previews:
+![MITM Phishing Nexus Mods with Evilginx by Simpler Hacking](https://github.com/user-attachments/assets/d3e67abf-50d5-47d4-bb4e-6cd9c73a5254)
+
+![Evilginx vs CAPTCHAS + Real Puppeteer aka EvilPuppet Integration for Evilginx Pro](https://github.com/user-attachments/assets/d5ff3bd9-430c-4a29-9ed0-aec96480bbfa)
+
+![MFA Attacks Preview - Snapshot 2](https://github.com/user-attachments/assets/f74fc110-9ac6-4d4c-9275-383e14ac1077)
+
+![IG Phishlet Lab - DevTooling Instagram With Hussain (Edited, Cropped, Cleaned) - frame at 13m36s](https://github.com/user-attachments/assets/b5d7ba6b-0312-431c-9350-0257bb341bd9)
+
+![EVILGOPHISH MASTERY COURSE CURRICULUM PREVIEW PT 1](https://github.com/user-attachments/assets/cb0d1c33-5b5b-4b4f-9a08-40091aba55d3)
+
 
 ## Click [HERE](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) to enroll in Evilginx Phishlet Developer Masterclass (2025)
 
-## Elevate Your Offensive Security Skillset with Our Latest Advanced Phishing Course!
-
-Are you ready to push your Evilginx expertise to new heights? If you’re already comfortable with deploying basic phishlets, it’s time to master the craft of building them from scratch. Our **Evilginx Phishlet Developer Masterclass (2025)** is engineered for advanced practitioners—penetration testers, red teamers, and cybersecurity professionals—who demand a deeper, more technical understanding of phishlet creation.
+Our **Evilginx Phishlet Developer Masterclass (2025)** is for advanced practitioners, penetration testers, red teamers, and cybersecurity professionals who demand a deeper, more technical understanding of phishlet creation in 2025.
 
 In this masterclass, you will:
 - **Dissect Phishlet Architecture:** Gain an intimate understanding of Evilginx phishlets—from proxy host configuration and dynamic sub-filters to capturing critical session cookies and authentication tokens.
@@ -58,8 +67,9 @@ In this masterclass, you will:
 - **Build Custom Solutions:** Transition from using off-the-shelf phishlets to engineering bespoke tools that are robust, adaptable, and tailored for your red team engagements.
 - **Engage with Practical Labs:** Work through hands-on exercises and interactive labs that mirror actual offensive operations, equipping you with skills you can deploy immediately.
 
-Join the ranks of industry professionals who have already transformed their approach to reverse-proxy phishing.  
-Click [HERE](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) to explore the full curriculum and enroll in the **Evilginx Phishlet Developer Masterclass 2025** today—and redefine what’s possible in offensive security.
+![Phishlet Developer Course Preview - Course Components   Disciplines - frame at 0m1s](https://github.com/user-attachments/assets/06a65370-8c9b-48bc-ab34-cfe1422b17b1)
+
+Click [HERE](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) to explore the full curriculum and enroll in our extensive course.
 
 ## Need Custom Phishlets? 
 Check our constantly updating our free Evilginx3 Phishlet Repository for Red Teams
@@ -131,25 +141,14 @@ login:
 
 ![Subscribe](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/05768590-0ad4-47d8-bee0-5e940b71a00b)
 
-## Want more Evilginx Phishlets not available on Github? 
-Gain access to more private Phishlets not available to the public on our Patreon.
-
-
-[![Get Exclusive Access on Patreon](https://img.shields.io/badge/Exclusive_Access-Patreon-orange.svg)](https://www.patreon.com/SimplerHacking)
-
-<img width="264" alt="Patreon" src="https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/3e9d587d-0792-4dad-a6d2-aaa004197508">
-
-## Patreon: www.patreon.com/SimplerHacking
-
-
 ### Enroll in our free training lessons & webinars: www.simplerhacking.com/courses
 
 ## Community Discord Server
 
-![Discord Members](https://img.shields.io/badge/Discord%20Members-1036-blue)
+![Discord Members](https://img.shields.io/badge/Discord%20Members-1134-blue)
 
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yqfVskRa)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wxjpp2EPMF)
 
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
