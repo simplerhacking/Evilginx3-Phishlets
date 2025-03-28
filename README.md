@@ -5,7 +5,7 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 
 ## Want to Learn How to Create Advanced Phishlets from Scratch in 2025?
 
-## Our New Training Course [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
+## New Training Course [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
 
 ![PRO + EVE-Phishlet Developer Masterclass 2025 - min-min](https://github.com/user-attachments/assets/b1839fe9-b16d-4ab0-a689-106a2efe30c2)
 
@@ -14,9 +14,13 @@ After months of dedicated work and relentless refinement, our team proud to anno
 
 Join us now and unlock the most complete, up-to-date resource for mastering phishlet creation in 2025. Elevate your offensive security skills with hands-on labs, expert insights, and innovative techniques that will redefine your approach to reverse-proxy phishing.
 
-[Click Here to View the Course](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass)
+[Click Here to View Course](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass)
 
-![SimplerHacking Student Poll Updated - Phishlet Mastery](https://github.com/user-attachments/assets/10c14fc5-5fbf-4543-9451-5210556b004f)
+![1 SimplerHacking's Phishlet Developer Masterclass Preview (2)-min](https://github.com/user-attachments/assets/0b5dba74-4504-4f7b-81b5-c85aaa5f7382)
+
+![SimplerHacking's Phishlet Developer Masterclass Preview (1)-min](https://github.com/user-attachments/assets/aac1789a-ec51-4565-bf50-bed9304f2503)
+![SimplerHacking's Phishlet Developer Masterclass Preview (3)-min](https://github.com/user-attachments/assets/152840c3-67c5-4c9b-8cd0-22c586657961)
+
 
 ![Github - Evilginx Workflow Test](https://github.com/user-attachments/assets/7b7e467d-9d48-4ead-9319-13fa2d05c26f)
 
