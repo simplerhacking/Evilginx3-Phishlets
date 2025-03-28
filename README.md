@@ -7,7 +7,7 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 
 ## Our New Training Course [Evilginx Phishlet Developer Masterclass (2025)](https://www.simplerhacking.com/pages/evilginx-phishlet-creation-masterclass) has been released!
 
-![PRO - Evilginx Phishlet Developer Masterclass Main Cover Art - min](https://github.com/user-attachments/assets/865f4bb4-648a-43a6-bb04-5da479e80710)
+![PRO + EVE-Phishlet Developer Masterclass 2025 - min-min](https://github.com/user-attachments/assets/b1839fe9-b16d-4ab0-a689-106a2efe30c2)
 
 
 After months of dedicated work and relentless refinement, our team proud to announce that our **Evilginx Phishlet Developer Masterclass (2025)** has finally been completed. This course is the culmination of years of advanced research and practical red team experience—designed for developers, security professionals, red teamers and anyone who wants to learn how to build custom phishlets from scratch.
